@@ -1,0 +1,10 @@
+include ':app'
+
+// Capacitor plugin
+def capacitorModules = [':capacitor-android']
+
+capacitorModules.each { module ->
+    include module
+}
+
+project(':capacitor-android').projectDir = new File('./capacitor-android')

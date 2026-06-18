@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Washu Tic Tac Toe Pro</string>
+    <string name="title_activity_main">Washu Tic Tac Toe Pro</string>
+    <string name="package_name">com.washu.tictactoepro</string>
+    <string name="custom_url_scheme">com.washu.tictactoepro</string>
+</resources>
